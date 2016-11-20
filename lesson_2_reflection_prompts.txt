@@ -1,8 +1,9 @@
-What happens when you initialize a repository? Why do you need to do it?
+Q: What happens when you initialize a repository? Why do you need to do it?
+A: it creates the folders that git will use
 
-How is the staging area different from the working directory and the repository?
-What value do you think it offers?
-I don't know really
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+A: Is a middle step between the working directory and the commit, it allows
+you to keep things clear
 
 How can you use the staging area to make sure you have one commit per logical
 change?
@@ -17,3 +18,4 @@ the diagram the way we do?
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
